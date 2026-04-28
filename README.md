@@ -1,4 +1,4 @@
-# 🎓 Student Record Management System (C)
+# 🎓 Student Record Management System 
 
 A simple yet powerful **menu-driven CLI application** written in C to manage student records using file handling.
 
