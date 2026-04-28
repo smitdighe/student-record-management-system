@@ -31,10 +31,12 @@ A simple yet powerful **menu-driven CLI application** written in C to manage stu
 
 ## 📂 Project Structure
 
+'''
 student-record-management-system-c/
 │── main.c
 │── students.dat
 │── README.md
+'''
 
 ---
 
