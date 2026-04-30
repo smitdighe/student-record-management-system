@@ -488,7 +488,7 @@ void display_topper(void) {
         print_header();
         print_student_row(&topper);
         print_separator();
-        printf("  Congratulations to %s!\n", topper.name);
+        printf("  Congratulations to %s! You are the class topper!\n", topper.name);
     }
     pause_screen();
 }
