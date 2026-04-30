@@ -76,7 +76,7 @@ void display_menu(void) {
     system("cls || clear");
     printf("\n");
     printf("  ╔══════════════════════════════════════════╗\n");
-    printf("  ║   STUDENT RECORD SYSTEM       ║\n");
+    printf("  ║   STUDENT RECORD MANAGEMENT SYSTEM       ║\n");
     printf("  ╠══════════════════════════════════════════╣\n");
     printf("  ║  1. Add Student                          ║\n");
     printf("  ║  2. View All Students                    ║\n");
